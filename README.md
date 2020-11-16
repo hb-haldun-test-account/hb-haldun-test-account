@@ -1,3 +1,3 @@
 Hello world!
 
-![hello](https://docs.github.com/assets/images/help/repository/profile-with-readme.png?raw=true)
+![hello](https://raw.githubusercontent.com/hb-haldun-test-account/hb-haldun-test-account/main/black%20rectangle.png)
